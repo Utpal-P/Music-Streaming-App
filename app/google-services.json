@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875788800013",
+    "project_id": "neptunes-64aa7",
+    "storage_bucket": "neptunes-64aa7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875788800013:android:4067efffd2b5e5e4730544",
+        "android_client_info": {
+          "package_name": "np.com.demo.neptunes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAISRXHUAjlzgpF77Jm4rIVmDqX86AqUsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
